@@ -17,7 +17,7 @@
 
 ### Introduction
 
-![](img/karma.png)
+![](img/karma.jpg)
 
 ### Project structure
 
