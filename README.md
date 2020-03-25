@@ -39,7 +39,7 @@ To learn more design detail for this project, please read [Paper and Documents](
 ### Paper and Documents
 
 - [Whitepaper](en/whitepaper.md): Describe `Karma`'s aims and design principle.
-- [RFCs](en/rfcs/index.md): Describe the detail of project.
+- [RFCs](rfcs/README.md): Describe the detail of project.
 
 ## State of project
 
@@ -48,7 +48,7 @@ To learn more design detail for this project, please read [Paper and Documents](
 ### Implementation
 
 - Rust
-  - [logabs](#): Abstract for discrete logarithm.
+  - [dislog-hal](https://github.com/Yinet-project/dislog-hal): HAL for discrete logarithm include `Elliptic Curve` and `Scalar`.
   - [Schnorr](#): Schnorr for logabs.
 
 We present project's roadmap here.
